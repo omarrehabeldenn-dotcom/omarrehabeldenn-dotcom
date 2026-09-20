@@ -1,3 +1,4 @@
+```markdown
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                         OMAR REHAB                             -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
@@ -12,17 +13,10 @@
   <a href="https://github.com/omarrehabeldenn-dotcom">
     <img src="https://img.shields.io/badge/GitHub-omarrehabeldenn--dotcom-181717?style=for-the-badge&logo=github" />
   </a>
+  <a href="https://www.linkedin.com/in/omar-rehabelden-952999427/">
+    <img src="https://img.shields.io/badge/LinkedIn-Omar%20Rehab-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
-
-<br>
-
-<img src="assets/divider.svg" width="100%"/>
-
-<br>
-
-<div align="center">
-  <img src="assets/stats.svg"/>
-</div>
 
 <br>
 
@@ -32,14 +26,17 @@
 
 ## 👨‍💻 About Me
 
-I'm Omar Rehab, a Software Engineering Student and Full-Stack Developer passionate about building modern, scalable, and user-focused web applications.
+I'm Omar Rehab, a **5th-Year Software Engineering Student**, Full-Stack Developer, and Freelancer passionate about building modern, scalable, and user-focused applications.
 
-I enjoy working across both backend and frontend technologies, designing APIs, building reliable systems, and turning ideas into complete web applications.
+I enjoy working across frontend, backend, mobile development, databases, and software engineering concepts while continuously improving my technical and problem-solving skills.
 
-- 🎓 Software Engineering Student
+- 🎓 5th-Year Software Engineering Student
 - 💻 Full-Stack Developer
-- ⚙️ Backend Development
-- 🌐 Web Application Development
+- ⚙️ Backend Developer
+- 🌐 Web Application Developer
+- 📱 Flutter Developer
+- 💼 Freelancer
+- 🧠 Software Engineering & Problem Solving
 - 🚀 Always learning and building new projects
 
 <br>
@@ -48,36 +45,139 @@ I enjoy working across both backend and frontend technologies, designing APIs, b
 
 <br>
 
-## 🛠️ Languages & Technologies
+## 🛠️ Skills & Technologies
+
+### 💻 Programming Languages
 
 <div align="center">
 
-  <img src="assets/labels/lang.svg"/>
-  <br><br>
+🐘 PHP &nbsp;&nbsp;
+🌐 JavaScript &nbsp;&nbsp;
+🐍 Python &nbsp;&nbsp;
+☕ Java &nbsp;&nbsp;
+🧩 C / C++ &nbsp;&nbsp;
+🎯 Dart
 
-  <img src="assets/badges/csharp.svg">
-  <img src="assets/badges/javascript.svg">
-  <img src="assets/badges/html5.svg">
-  <img src="assets/badges/css3.svg">
+</div>
 
-  <br><br>
+<br>
 
-  <img src="assets/labels/fw.svg"/>
-  <br><br>
+### 🎨 Frontend Development
 
-  <img src="assets/badges/dotnet.svg">
-  <img src="assets/badges/aspnet-core.svg">
-  <img src="assets/badges/nodejs.svg">
+<div align="center">
 
-  <br><br>
+🌐 HTML5 &nbsp;&nbsp;
+🎨 CSS3 &nbsp;&nbsp;
+⚡ JavaScript &nbsp;&nbsp;
+📱 Responsive Design
 
-  <img src="assets/labels/tools.svg"/>
-  <br><br>
+</div>
 
-  <img src="assets/badges/git.svg">
-  <img src="assets/badges/github.svg">
-  <img src="assets/badges/visual-studio.svg">
-  <img src="assets/badges/vscode.svg">
+<br>
+
+### ⚙️ Backend Development
+
+<div align="center">
+
+🐘 PHP &nbsp;&nbsp;
+🐍 Python &nbsp;&nbsp;
+🟢 Node.js &nbsp;&nbsp;
+🔗 REST APIs &nbsp;&nbsp;
+⚙️ Backend Architecture
+
+</div>
+
+<br>
+
+### 📱 Mobile Development
+
+<div align="center">
+
+💙 Flutter &nbsp;&nbsp;
+🎯 Dart &nbsp;&nbsp;
+📱 Cross-Platform Development
+
+</div>
+
+<br>
+
+### 🧠 Software Engineering
+
+<div align="center">
+
+🧩 Object-Oriented Programming (OOP) &nbsp;&nbsp;
+🗂️ Data Structures & Algorithms
+
+<br><br>
+
+🏗️ Software Engineering &nbsp;&nbsp;
+🧱 Design Patterns &nbsp;&nbsp;
+🧪 Software Testing
+
+</div>
+
+<br>
+
+### 🗄️ Databases
+
+<div align="center">
+
+🐬 MySQL &nbsp;&nbsp;
+🗃️ SQL &nbsp;&nbsp;
+🧩 Database Design &nbsp;&nbsp;
+🔗 Database Integration
+
+</div>
+
+<br>
+
+### 💻 Computer Science
+
+<div align="center">
+
+🖥️ Operating Systems &nbsp;&nbsp;
+🌐 Computer Networks
+
+<br><br>
+
+🧮 Algorithms &nbsp;&nbsp;
+🧠 Problem Solving &nbsp;&nbsp;
+🔐 Security Fundamentals
+
+</div>
+
+<br>
+
+### 🧰 Tools & Technologies
+
+<div align="center">
+
+🐙 Git & GitHub &nbsp;&nbsp;
+💻 VS Code &nbsp;&nbsp;
+🎨 Canva &nbsp;&nbsp;
+🖌️ Photoshop &nbsp;&nbsp;
+✏️ Illustrator
+
+</div>
+
+<br>
+
+### 💼 Freelancing
+
+<div align="center">
+
+🤝 Client Communication &nbsp;&nbsp;
+📋 Project Management
+
+<br><br>
+
+🎯 Requirement Analysis &nbsp;&nbsp;
+💬 Proposal Writing
+
+<br><br>
+
+⏱️ Time Management &nbsp;&nbsp;
+🚀 Project Delivery
 
 </div>
 
@@ -95,10 +195,12 @@ I enjoy working across both backend and frontend technologies, designing APIs, b
 |---|---|
 | 🔧 Backend | APIs, server-side applications & business logic |
 | 🌐 Full-Stack | Complete modern web applications |
-| 🗄️ Databases | Data modeling, queries & application integration |
-| 🔐 Authentication | Secure user authentication & authorization |
+| 📱 Mobile | Cross-platform Flutter applications |
+| 🗄️ Databases | Data modeling, SQL & application integration |
+| 🔐 Authentication | Secure authentication & authorization |
 | ⚡ APIs | RESTful APIs & backend services |
 | 🎨 Frontend | Responsive and interactive web interfaces |
+| 💼 Freelancing | Client projects & real-world solutions |
 
 </div>
 
@@ -108,10 +210,21 @@ I enjoy working across both backend and frontend technologies, designing APIs, b
 
 <br>
 
-## 🌐 Top Languages
+## 📚 Software Engineering Knowledge
 
 <div align="center">
-  <img src="assets/langs.svg" width="100%"/>
+
+🎓 Object-Oriented Programming  
+🗂️ Data Structures & Algorithms  
+🧮 Algorithms & Problem Solving  
+🗄️ Database Management Systems  
+🖥️ Operating Systems  
+🌐 Computer Networks  
+🏗️ Software Engineering  
+🧱 Design Patterns  
+🧪 Software Testing  
+🔐 Security Fundamentals  
+
 </div>
 
 <br>
@@ -126,12 +239,14 @@ I'm continuously working on projects that help me improve my development skills 
 
 Some of the areas I work on include:
 
-- Full-Stack Web Applications
-- Backend APIs
-- Authentication Systems
-- Database-driven Applications
-- Business & Management Systems
-- Modern Responsive Websites
+- 🌐 Full-Stack Web Applications
+- ⚙️ Backend APIs
+- 📱 Flutter Applications
+- 🔐 Authentication Systems
+- 🗄️ Database-driven Applications
+- 🏢 Business & Management Systems
+- 🎨 Modern Responsive Websites
+- 💼 Freelance Projects
 
 <br>
 
@@ -165,7 +280,7 @@ Some of the areas I work on include:
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 
-  <a href="https://www.linkedin.com/">
+  <a href="https://www.linkedin.com/in/omar-rehabelden-952999427/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
@@ -184,3 +299,4 @@ Some of the areas I work on include:
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                  Profile automatically updated                 -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
+```
