@@ -72,7 +72,7 @@ V 0 H 0 Z"/>
 
   <!-- Text elements -->
   <!-- TITLE -->
-  <text x="750" y="130"
+  <text x="750" y="115"
     font-family="Segoe UI, Arial, sans-serif"
     font-size="68"
     font-weight="700"
@@ -83,8 +83,8 @@ V 0 H 0 Z"/>
     OmarRehabelden
   </text>
 
-  <!-- DESC -->
-  <text x="750" y="178"
+  <!-- DESC — Line 1 -->
+  <text x="750" y="165"
     font-family="Segoe UI, Arial, sans-serif"
     font-size="19"
     font-weight="400"
@@ -92,7 +92,19 @@ V 0 H 0 Z"/>
     text-anchor="middle"
     letter-spacing="0.5"
     filter="url(#text-glow)">
-    Software Engineering Student | Full-Stack Developer | Building scalable web appl…
+    Software Engineering Student · Full-Stack Developer
+  </text>
+
+  <!-- DESC — Line 2 -->
+  <text x="750" y="195"
+    font-family="Segoe UI, Arial, sans-serif"
+    font-size="19"
+    font-weight="400"
+    fill="#e2d9f3"
+    text-anchor="middle"
+    letter-spacing="0.5"
+    filter="url(#text-glow)">
+    Freelancer · Building scalable web applications
   </text>
 
 </svg>
