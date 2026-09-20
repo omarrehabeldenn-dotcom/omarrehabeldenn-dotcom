@@ -125,11 +125,11 @@
 </defs>
 
 <!-- Text lines -->
-<text class="t" clip-path="url(#cp1)" x="274.6" y="34" textLength="250.8" lengthAdjust="spacingAndGlyphs">.NET &amp; C# Developer</text>
-<text class="t" clip-path="url(#cp2)" x="254.8" y="34" textLength="290.4" lengthAdjust="spacingAndGlyphs">ASP.NET Core · Node.js</text>
-<text class="t" clip-path="url(#cp3)" x="248.2" y="34" textLength="303.6" lengthAdjust="spacingAndGlyphs">HTML · CSS · JavaScript</text>
-<text class="t" clip-path="url(#cp4)" x="248.2" y="34" textLength="303.6" lengthAdjust="spacingAndGlyphs">AI-Assisted Engineering</text>
-<text class="t" clip-path="url(#cp5)" x="248.2" y="34" textLength="303.6" lengthAdjust="spacingAndGlyphs">Spec-Driven Development</text>
+<text class="t" clip-path="url(#cp1)" x="274.6" y="34" textLength="250.8" lengthAdjust="spacingAndGlyphs">Software Engineering Student</text>
+<text class="t" clip-path="url(#cp2)" x="254.8" y="34" textLength="290.4" lengthAdjust="spacingAndGlyphs">Full-Stack Developer</text>
+<text class="t" clip-path="url(#cp3)" x="248.2" y="34" textLength="303.6" lengthAdjust="spacingAndGlyphs">Freelancer</text>
+<text class="t" clip-path="url(#cp4)" x="248.2" y="34" textLength="303.6" lengthAdjust="spacingAndGlyphs">Web Application Developer</text>
+<text class="t" clip-path="url(#cp5)" x="248.2" y="34" textLength="303.6" lengthAdjust="spacingAndGlyphs">Always Learning &amp; Building</text>
 
 <!-- Cursors -->
 <g class="cw1"><rect class="cur" x="274.6" y="16" width="3.5" height="22"/></g>
