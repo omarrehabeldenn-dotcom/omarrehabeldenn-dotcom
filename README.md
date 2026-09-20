@@ -49,12 +49,6 @@
     <td>💼</td><td>Freelancer</td>
   </tr>
   <tr>
-    <td>🌐</td><td>Frontend Developer</td>
-  </tr>
-  <tr>
-    <td>⚙️</td><td>Backend Developer</td>
-  </tr>
-  <tr>
     <td>🚀</td><td>Always Learning & Building</td>
   </tr>
 </table>
