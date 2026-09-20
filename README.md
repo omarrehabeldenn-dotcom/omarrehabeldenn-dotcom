@@ -183,14 +183,9 @@ Passionate about building modern, scalable, and user-focused applications.
 
   <br/><br/>
 
-  <b>Building. Learning. Improving. 🚀</b>
+<b>© Designed & Built by Omar Rehabelden<sup>®</sup> — 2026 🚀</b>
 
 </div>
 
+
 <br/>
-
-<img src="assets/footer.svg" width="100%" alt="Footer"/>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                  Profile automatically updated                 -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
