@@ -34,23 +34,27 @@
 
 <div align="center">
 
-**Omar Rehab** — 5th-Year Software Engineering Student · Full-Stack Developer · Freelancer
-
-Passionate about building modern, scalable, and user-focused applications.
+**Omar Rehab** — Passionate about building modern, scalable, and user-focused applications.
 
 </div>
 
 <table align="center">
   <tr>
     <td>🎓</td><td>5th-Year Software Engineering Student</td>
+  </tr>
+  <tr>
     <td>💻</td><td>Full-Stack Developer</td>
   </tr>
   <tr>
-    <td>🌐</td><td>Web Application Developer</td>
     <td>💼</td><td>Freelancer</td>
   </tr>
   <tr>
-    <td>🧠</td><td>Software Engineering & Problem Solving</td>
+    <td>🌐</td><td>Frontend Developer</td>
+  </tr>
+  <tr>
+    <td>⚙️</td><td>Backend Developer</td>
+  </tr>
+  <tr>
     <td>🚀</td><td>Always Learning & Building</td>
   </tr>
 </table>
