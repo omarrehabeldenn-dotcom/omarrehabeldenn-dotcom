@@ -7,7 +7,10 @@
   <img src="assets/typing.svg" width="100%" alt="Typing Animation"/>
 </div>
 
-<!-- روابط التواصل -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                        SOCIAL LINKS                            -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
 <div align="center">
   <a href="https://github.com/omarrehabeldenn-dotcom">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
@@ -22,6 +25,10 @@
 <img src="assets/divider.svg" width="100%" alt="Divider"/>
 
 <br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                         ABOUT ME                               -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 ## 👨‍💻 About Me
 
@@ -43,11 +50,10 @@ Passionate about building modern, scalable, and user-focused applications.
     <td>🌐</td><td>Web Application Developer</td>
   </tr>
   <tr>
-    <td>📱</td><td>Flutter Developer</td>
     <td>💼</td><td>Freelancer</td>
+    <td>🧠</td><td>Software Engineering & Problem Solving</td>
   </tr>
   <tr>
-    <td>🧠</td><td>Software Engineering & Problem Solving</td>
     <td>🚀</td><td>Always Learning & Building</td>
   </tr>
 </table>
@@ -57,6 +63,10 @@ Passionate about building modern, scalable, and user-focused applications.
 <img src="assets/divider.svg" width="100%" alt="Divider"/>
 
 <br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    SKILLS & TECHNOLOGIES                       -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 ## 🛠️ Skills & Technologies
 
@@ -105,9 +115,6 @@ Passionate about building modern, scalable, and user-focused applications.
 
 ![Client Communication](https://img.shields.io/badge/Client%20Communication-0A66C2?style=for-the-badge&logo=googlechat&logoColor=white)
 ![Project Management](https://img.shields.io/badge/Project%20Management-9333EA?style=for-the-badge&logo=trello&logoColor=white)
-![Requirement Analysis](https://img.shields.io/badge/Requirement%20Analysis-0891B2?style=for-the-badge&logo=readthedocs&logoColor=white)
-![Proposal Writing](https://img.shields.io/badge/Proposal%20Writing-EA580C?style=for-the-badge&logo=googledocs&logoColor=white)
-![Time Management](https://img.shields.io/badge/Time%20Management-16A34A?style=for-the-badge&logo=clockify&logoColor=white)
 ![Delivery](https://img.shields.io/badge/Project%20Delivery-E11D48?style=for-the-badge&logo=rocket&logoColor=white)
 
 </div>
@@ -117,6 +124,10 @@ Passionate about building modern, scalable, and user-focused applications.
 <img src="assets/divider.svg" width="100%" alt="Divider"/>
 
 <br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                       WHAT I BUILD                             -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 ## 🚀 What I Build
 
@@ -140,6 +151,10 @@ Passionate about building modern, scalable, and user-focused applications.
 
 <br/>
 
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                SOFTWARE ENGINEERING KNOWLEDGE                  -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
 ## 📚 Software Engineering Knowledge
 
 <div align="center">
@@ -156,6 +171,10 @@ Passionate about building modern, scalable, and user-focused applications.
 
 <br/>
 
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                      GITHUB ACTIVITY                           -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
 ## 📈 GitHub Activity
 
 <div align="center">
@@ -170,6 +189,10 @@ Passionate about building modern, scalable, and user-focused applications.
 
 <br/>
 
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                       LET'S CONNECT                            -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
 ## 🤝 Let's Connect
 
 <div align="center">
@@ -183,9 +206,10 @@ Passionate about building modern, scalable, and user-focused applications.
 
   <br/><br/>
 
-<b>© Designed & Built by Omar Rehabelden<sup>®</sup> — 2026 🚀</b>
+  <b>© Designed & Built by Omar Rehabelden<sup>®</sup> — 2026 🚀</b>
 
 </div>
 
-
-<br/>
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                  Profile automatically updated                 -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
