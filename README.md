@@ -2,163 +2,274 @@
 <!--                         OMAR REHAB                             -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=42&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=700&lines=OMAR+REHAB;Software+Engineer;Full-Stack+Developer;Flutter+Developer" />
-</h1>
+<img src="assets/header.svg" width="100%"/>
 
-<h3 align="center">🎓 Software Engineering Student · 💻 Full-Stack Developer · 📱 Flutter Developer</h3>
+<img src="assets/typing.svg" width="100%"/>
+
+<br>
 
 <div align="center">
-
   <a href="https://github.com/omarrehabeldenn-dotcom">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-omarrehabeldenn--dotcom-181717?style=for-the-badge&logo=github" />
   </a>
   <a href="https://www.linkedin.com/in/omar-rehabelden-952999427/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Omar%20Rehab-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=omarrehabeldenn-dotcom&style=for-the-badge&color=0A66C2&label=PROFILE+VIEWS" />
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-22c55e?style=for-the-badge" />
-
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+<br>
+
+<img src="assets/divider.svg" width="100%"/>
+
+<br>
 
 ## 👨‍💻 About Me
 
-<img align="right" alt="Coding" width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+I'm Omar Rehab, a **5th-Year Software Engineering Student**, Full-Stack Developer, and Freelancer passionate about building modern, scalable, and user-focused applications.
 
-I'm **Omar Rehab**, a 5th-year **Software Engineering** student, **Full-Stack Developer**, and **Freelancer** passionate about building modern, scalable, and user-focused applications.
-
-I enjoy working across frontend, backend, mobile, and databases — while continuously sharpening my engineering and problem-solving skills.
-
-<br>
+I enjoy working across frontend, backend, mobile development, databases, and software engineering concepts while continuously improving my technical and problem-solving skills.
 
 - 🎓 5th-Year Software Engineering Student
 - 💻 Full-Stack Developer
 - ⚙️ Backend Developer
+- 🌐 Web Application Developer
 - 📱 Flutter Developer
 - 💼 Freelancer
 - 🧠 Software Engineering & Problem Solving
-- 🚀 Always learning and building
+- 🚀 Always learning and building new projects
 
-<br clear="right"/>
+<br>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+<img src="assets/divider.svg" width="100%"/>
 
-## 🛠️ Tech Stack
+<br>
+
+## 🛠️ Skills & Technologies
+
+### 💻 Programming Languages
 
 <div align="center">
 
-### 💻 Languages
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+🐘 PHP &nbsp;&nbsp;
+🌐 JavaScript &nbsp;&nbsp;
+🐍 Python &nbsp;&nbsp;
+☕ Java &nbsp;&nbsp;
+🧩 C / C++ &nbsp;&nbsp;
+🎯 Dart
 
-### 🎨 Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Responsive](https://img.shields.io/badge/Responsive-Design-06B6D4?style=for-the-badge)
+</div>
 
-### ⚙️ Backend
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+<br>
 
-### 📱 Mobile
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+### 🎨 Frontend Development
+
+<div align="center">
+
+🌐 HTML5 &nbsp;&nbsp;
+🎨 CSS3 &nbsp;&nbsp;
+⚡ JavaScript &nbsp;&nbsp;
+📱 Responsive Design
+
+</div>
+
+<br>
+
+### ⚙️ Backend Development
+
+<div align="center">
+
+🐘 PHP &nbsp;&nbsp;
+🐍 Python &nbsp;&nbsp;
+🟢 Node.js &nbsp;&nbsp;
+🔗 REST APIs &nbsp;&nbsp;
+⚙️ Backend Architecture
+
+</div>
+
+<br>
+
+### 📱 Mobile Development
+
+<div align="center">
+
+💙 Flutter &nbsp;&nbsp;
+🎯 Dart &nbsp;&nbsp;
+📱 Cross-Platform Development
+
+</div>
+
+<br>
+
+### 🧠 Software Engineering
+
+<div align="center">
+
+🧩 Object-Oriented Programming (OOP) &nbsp;&nbsp;
+🗂️ Data Structures & Algorithms
+
+<br><br>
+
+🏗️ Software Engineering &nbsp;&nbsp;
+🧱 Design Patterns &nbsp;&nbsp;
+🧪 Software Testing
+
+</div>
+
+<br>
 
 ### 🗄️ Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-
-### 🧰 Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-
-</div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
-
-## 📊 GitHub Stats
 
 <div align="center">
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=omarrehabeldenn-dotcom&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarrehabeldenn-dotcom&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+🐬 MySQL &nbsp;&nbsp;
+🗃️ SQL &nbsp;&nbsp;
+🧩 Database Design &nbsp;&nbsp;
+🔗 Database Integration
 
 </div>
+
+<br>
+
+### 💻 Computer Science
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omarrehabeldenn-dotcom&theme=tokyonight&hide_border=true" />
+
+🖥️ Operating Systems &nbsp;&nbsp;
+🌐 Computer Networks
+
+<br><br>
+
+🧮 Algorithms &nbsp;&nbsp;
+🧠 Problem Solving &nbsp;&nbsp;
+🔐 Security Fundamentals
+
 </div>
+
+<br>
+
+### 🧰 Tools & Technologies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=omarrehabeldenn-dotcom&theme=tokyonight&no-frame=true&row=1&column=7" />
+
+🐙 Git & GitHub &nbsp;&nbsp;
+💻 VS Code &nbsp;&nbsp;
+🎨 Canva &nbsp;&nbsp;
+🖌️ Photoshop &nbsp;&nbsp;
+✏️ Illustrator
+
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+<br>
+
+### 💼 Freelancing
+
+<div align="center">
+
+🤝 Client Communication &nbsp;&nbsp;
+📋 Project Management
+
+<br><br>
+
+🎯 Requirement Analysis &nbsp;&nbsp;
+💬 Proposal Writing
+
+<br><br>
+
+⏱️ Time Management &nbsp;&nbsp;
+🚀 Project Delivery
+
+</div>
+
+<br>
+
+<img src="assets/divider.svg" width="100%"/>
+
+<br>
 
 ## 🚀 What I Build
 
 <div align="center">
 
-| 🎯 Area | 💡 Focus |
-|:---:|:---|
+| Area | Focus |
+|---|---|
 | 🔧 Backend | APIs, server-side applications & business logic |
 | 🌐 Full-Stack | Complete modern web applications |
 | 📱 Mobile | Cross-platform Flutter applications |
-| 🗄️ Databases | Data modeling, SQL & integration |
-| 🔐 Auth | Secure authentication & authorization |
+| 🗄️ Databases | Data modeling, SQL & application integration |
+| 🔐 Authentication | Secure authentication & authorization |
 | ⚡ APIs | RESTful APIs & backend services |
-| 🎨 Frontend | Responsive & interactive interfaces |
-| 💼 Freelance | Client projects & real-world solutions |
+| 🎨 Frontend | Responsive and interactive web interfaces |
+| 💼 Freelancing | Client projects & real-world solutions |
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+<br>
+
+<img src="assets/divider.svg" width="100%"/>
+
+<br>
 
 ## 📚 Software Engineering Knowledge
 
 <div align="center">
-🎓 Object-Oriented Programming 🗂️ Data Structures & Algorithms
-🧮 Algorithms & Problem Solving 🗄️ Database Management Systems
-🖥️ Operating Systems 🌐 Computer Networks
-🏗️ Software Engineering 🧱 Design Patterns
-🧪 Software Testing 🔐 Security Fundamentals 
+
+🎓 Object-Oriented Programming  
+🗂️ Data Structures & Algorithms  
+🧮 Algorithms & Problem Solving  
+🗄️ Database Management Systems  
+🖥️ Operating Systems  
+🌐 Computer Networks  
+🏗️ Software Engineering  
+🧱 Design Patterns  
+🧪 Software Testing  
+🔐 Security Fundamentals  
+
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+<br>
+
+<img src="assets/divider.svg" width="100%"/>
+
+<br>
 
 ## 📌 Featured Projects
 
-- 🌐 **Full-Stack Web Applications** — Modern responsive websites
-- ⚙️ **Backend APIs** — RESTful services & business logic
-- 📱 **Flutter Applications** — Cross-platform mobile apps
-- 🔐 **Authentication Systems** — Secure login & authorization
-- 🗄️ **Database-driven Apps** — SQL & data modeling
-- 🏢 **Business & Management Systems**
-- 💼 **Freelance Projects** — Real-world client solutions
+I'm continuously working on projects that help me improve my development skills and gain practical experience.
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+Some of the areas I work on include:
 
-## 📈 Contribution Activity
+- 🌐 Full-Stack Web Applications
+- ⚙️ Backend APIs
+- 📱 Flutter Applications
+- 🔐 Authentication Systems
+- 🗄️ Database-driven Applications
+- 🏢 Business & Management Systems
+- 🎨 Modern Responsive Websites
+- 💼 Freelance Projects
+
+<br>
+
+<img src="assets/divider.svg" width="100%"/>
+
+<br>
+
+## 📈 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=omarrehabeldenn-dotcom&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+  <img src="assets/contribution-graph.svg" width="100%"/>
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+<br>
+
+<div align="center">
+  <img src="assets/contribution-snake.svg" width="100%"/>
+</div>
+
+<br>
+
+<img src="assets/divider.svg" width="100%"/>
+
+<br>
 
 ## 🤝 Let's Connect
 
@@ -176,13 +287,13 @@ I enjoy working across frontend, backend, mobile, and databases — while contin
 
 <br>
 
-<div align="center">
+<p align="center">
   <b>Building. Learning. Improving. 🚀</b>
-</div>
+</p>
 
 <br>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+<img src="assets/footer.svg" width="100%"/>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                  Profile automatically updated                 -->
