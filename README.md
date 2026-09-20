@@ -101,21 +101,6 @@ Passionate about building modern, scalable, and user-focused applications.
 ![Design Patterns](https://img.shields.io/badge/Design%20Patterns-10B981?style=for-the-badge&logo=blueprint&logoColor=white)
 ![Testing](https://img.shields.io/badge/Testing-DC2626?style=for-the-badge&logo=testinglibrary&logoColor=white)
 
-**💻 Computer Science**
-
-![OS](https://img.shields.io/badge/OS-374151?style=for-the-badge&logo=linux&logoColor=white)
-![Networks](https://img.shields.io/badge/Networks-0EA5E9?style=for-the-badge&logo=cisco&logoColor=white)
-![Security](https://img.shields.io/badge/Security-EF4444?style=for-the-badge&logo=hackthebox&logoColor=white)
-
-**🧰 Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
-
 **💼 Freelancing**
 
 ![Client Communication](https://img.shields.io/badge/Client%20Communication-0A66C2?style=for-the-badge&logo=googlechat&logoColor=white)
@@ -141,7 +126,6 @@ Passionate about building modern, scalable, and user-focused applications.
 |:---:|:---|
 | 🔧 Backend | APIs, server-side apps & business logic |
 | 🌐 Full-Stack | Complete modern web applications |
-| 📱 Mobile | Cross-platform Flutter applications |
 | 🗄️ Databases | Data modeling, SQL & integration |
 | 🔐 Auth | Secure authentication & authorization |
 | ⚡ APIs | RESTful APIs & backend services |
@@ -163,23 +147,6 @@ Passionate about building modern, scalable, and user-focused applications.
 🎓 Object-Oriented Programming · 🗂️ Data Structures & Algorithms · 🧮 Problem Solving  
 🗄️ Database Management Systems · 🖥️ Operating Systems · 🌐 Computer Networks  
 🏗️ Software Engineering · 🧱 Design Patterns · 🧪 Software Testing · 🔐 Security Fundamentals
-
-</div>
-
-<br/>
-
-<img src="assets/divider.svg" width="100%" alt="Divider"/>
-
-<br/>
-
-## 📌 Featured Projects
-
-<div align="center">
-
-I'm continuously working on projects that help me improve my development skills.
-
-🌐 Full-Stack Web Apps · ⚙️ Backend APIs · 📱 Flutter Apps · 🔐 Auth Systems  
-🗄️ Database-driven Apps · 🏢 Business Systems · 🎨 Responsive Websites · 💼 Freelance Projects
 
 </div>
 
