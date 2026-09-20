@@ -46,14 +46,11 @@ Passionate about building modern, scalable, and user-focused applications.
     <td>💻</td><td>Full-Stack Developer</td>
   </tr>
   <tr>
-    <td>⚙️</td><td>Backend Developer</td>
     <td>🌐</td><td>Web Application Developer</td>
-  </tr>
-  <tr>
     <td>💼</td><td>Freelancer</td>
-    <td>🧠</td><td>Software Engineering & Problem Solving</td>
   </tr>
   <tr>
+    <td>🧠</td><td>Software Engineering & Problem Solving</td>
     <td>🚀</td><td>Always Learning & Building</td>
   </tr>
 </table>
@@ -92,11 +89,6 @@ Passionate about building modern, scalable, and user-focused applications.
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-**📱 Mobile**
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Cross Platform](https://img.shields.io/badge/Cross--Platform-6D28D9?style=for-the-badge&logo=android&logoColor=white)
 
 **🗄️ Databases**
 
