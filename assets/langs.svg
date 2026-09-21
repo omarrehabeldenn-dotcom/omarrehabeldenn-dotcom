@@ -56,8 +56,10 @@
 
   <!-- Colored segments -->
   <g clip-path="url(#bar-shape)">
-      <rect x="20" y="42" width="703" height="22" fill="#f1e05a"/>
-      <rect x="723" y="42" width="57" height="22" fill="#e34c26"/>
+      <rect x="20" y="42" width="728" height="22" fill="#3178c6"/>
+      <rect x="748" y="42" width="18" height="22" fill="#663399"/>
+      <rect x="766" y="42" width="10" height="22" fill="#336790"/>
+      <rect x="776" y="42" width="4" height="22" fill="#f1e05a"/>
   </g>
 
   <!-- Shimmer overlay on bar: diagonal rect translates across, clipped to bar -->
@@ -68,9 +70,13 @@
   </g>
 
   <!-- Legend with pulse -->
-  <circle class="pulse" cx="25" cy="88" r="5" fill="#f1e05a" style="animation-delay:0.0s;"/>
-  <text x="36" y="92.5" class="leg">JavaScript 92.5%</text>
-  <circle class="pulse" cx="405" cy="88" r="5" fill="#e34c26" style="animation-delay:0.4s;"/>
-  <text x="416" y="92.5" class="leg">HTML 7.5%</text>
+  <circle class="pulse" cx="25" cy="88" r="5" fill="#3178c6" style="animation-delay:0.0s;"/>
+  <text x="36" y="92.5" class="leg">TypeScript 95.8%</text>
+  <circle class="pulse" cx="215" cy="88" r="5" fill="#663399" style="animation-delay:0.4s;"/>
+  <text x="226" y="92.5" class="leg">CSS 2.3%</text>
+  <circle class="pulse" cx="405" cy="88" r="5" fill="#336790" style="animation-delay:0.8s;"/>
+  <text x="416" y="92.5" class="leg">PLpgSQL 1.3%</text>
+  <circle class="pulse" cx="595" cy="88" r="5" fill="#f1e05a" style="animation-delay:1.2s;"/>
+  <text x="606" y="92.5" class="leg">JavaScript 0.5%</text>
 
 </svg>
